@@ -1,4 +1,13 @@
 {
+  "name": "rocket-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dgvalerio/rocket-docker.git",
+  "author": "Davi Gonçalves Valério <al.davigvalerio@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
